@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Cogswell's Cogs",
+    "provider": "cogs",
+    "baseUrl": "https://cogswells-cogs.up.railway.app",
+    "id": 1,
+    "createdAt": "2024-03-09T22:02:54.108Z",
+    "updatedAt": "2024-03-13T02:24:56.700Z"
+  },
+  {
+    "name": "Spaceley's Sprockets",
+    "provider": "sprockets",
+    "baseUrl": "https://spaceleys-sprocket.up.railway.app",
+    "id": 2,
+    "createdAt": "2024-03-13T02:27:49.780Z",
+    "updatedAt": "2024-03-13T03:38:05.485Z"
+  }
+]

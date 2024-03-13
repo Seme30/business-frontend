@@ -1,0 +1,1074 @@
+[
+  {
+    "businessId": 16,
+    "externalSystemId": 1,
+    "encryptedPrivateApiKey": 100,
+    "id": 167,
+    "createdAt": "2024-03-04T23:20:32.379Z",
+    "updatedAt": "2024-03-05T00:11:19.992Z"
+  },
+  {
+    "businessId": 17,
+    "externalSystemId": 1,
+    "encryptedPrivateApiKey": 100002,
+    "id": 168,
+    "createdAt": "2024-03-05T14:40:28.491Z",
+    "updatedAt": "2024-03-09T07:51:57.302Z"
+  },
+  {
+    "businessId": 18,
+    "externalSystemId": 2,
+    "encryptedPrivateApiKey": 10004,
+    "id": 169,
+    "createdAt": "2024-03-08T18:43:43.397Z",
+    "updatedAt": "2024-03-10T20:30:57.815Z"
+  },
+  {
+    "businessId": 20,
+    "externalSystemId": 2,
+    "encryptedPrivateApiKey": 1006,
+    "id": 170,
+    "createdAt": "2024-03-07T02:48:42.328Z",
+    "updatedAt": "2024-03-07T14:30:31.849Z"
+  },
+  {
+    "businessId": 19,
+    "externalSystemId": 1,
+    "encryptedPrivateApiKey": 18,
+    "id": 171,
+    "createdAt": "2024-03-09T10:25:10.910Z",
+    "updatedAt": "2024-03-10T01:47:51.549Z"
+  },
+  {
+    "businessId": 21,
+    "externalSystemId": 1,
+    "id": 172,
+    "createdAt": "2024-03-05T13:54:18.895Z",
+    "updatedAt": "2024-03-09T15:01:14.612Z",
+    "encryptedPrivateApiKey": 8634
+  },
+  {
+    "businessId": 22,
+    "externalSystemId": 1,
+    "id": 185,
+    "createdAt": "2024-03-05T12:55:19.884Z",
+    "updatedAt": "2024-03-11T17:49:57.166Z",
+    "encryptedPrivateApiKey": 9614
+  },
+  {
+    "businessId": 23,
+    "externalSystemId": 1,
+    "id": 200,
+    "createdAt": "2024-03-05T18:41:37.794Z",
+    "updatedAt": "2024-03-13T02:22:09.553Z",
+    "encryptedPrivateApiKey": 4683
+  },
+  {
+    "businessId": 24,
+    "externalSystemId": 2,
+    "id": 209,
+    "createdAt": "2024-03-10T11:02:42.152Z",
+    "updatedAt": "2024-03-10T11:36:42.895Z",
+    "encryptedPrivateApiKey": 8451
+  },
+  {
+    "businessId": 25,
+    "externalSystemId": 2,
+    "id": 217,
+    "createdAt": "2024-03-07T15:26:07.806Z",
+    "updatedAt": "2024-03-09T18:40:19.832Z",
+    "encryptedPrivateApiKey": 7728
+  },
+  {
+    "businessId": 26,
+    "externalSystemId": 1,
+    "id": 227,
+    "createdAt": "2024-03-05T15:03:22.645Z",
+    "updatedAt": "2024-03-12T21:13:09.189Z",
+    "encryptedPrivateApiKey": 2614
+  },
+  {
+    "businessId": 27,
+    "externalSystemId": 2,
+    "id": 237,
+    "createdAt": "2024-03-05T04:55:18.906Z",
+    "updatedAt": "2024-03-12T01:26:44.212Z",
+    "encryptedPrivateApiKey": 3140
+  },
+  {
+    "businessId": 28,
+    "externalSystemId": 1,
+    "id": 245,
+    "createdAt": "2024-03-04T00:58:57.355Z",
+    "updatedAt": "2024-03-06T15:16:13.595Z",
+    "encryptedPrivateApiKey": 7041
+  },
+  {
+    "businessId": 29,
+    "externalSystemId": 1,
+    "id": 252,
+    "createdAt": "2024-03-10T14:06:13.317Z",
+    "updatedAt": "2024-03-10T14:29:10.864Z",
+    "encryptedPrivateApiKey": 7628
+  },
+  {
+    "businessId": 30,
+    "externalSystemId": 2,
+    "id": 264,
+    "createdAt": "2024-03-07T07:27:40.333Z",
+    "updatedAt": "2024-03-11T22:44:48.185Z",
+    "encryptedPrivateApiKey": 3917
+  },
+  {
+    "businessId": 31,
+    "externalSystemId": 2,
+    "id": 275,
+    "createdAt": "2024-03-11T08:47:55.341Z",
+    "updatedAt": "2024-03-11T22:35:42.972Z",
+    "encryptedPrivateApiKey": 2865
+  },
+  {
+    "businessId": 32,
+    "externalSystemId": 1,
+    "id": 283,
+    "createdAt": "2024-03-04T19:22:51.585Z",
+    "updatedAt": "2024-03-12T01:06:10.125Z",
+    "encryptedPrivateApiKey": 1526
+  },
+  {
+    "businessId": 33,
+    "externalSystemId": 2,
+    "id": 293,
+    "createdAt": "2024-03-05T16:48:07.570Z",
+    "updatedAt": "2024-03-05T21:18:23.586Z",
+    "encryptedPrivateApiKey": 5867
+  },
+  {
+    "businessId": 34,
+    "externalSystemId": 1,
+    "id": 305,
+    "createdAt": "2024-03-05T20:24:49.892Z",
+    "updatedAt": "2024-03-07T15:33:02.252Z",
+    "encryptedPrivateApiKey": 8901
+  },
+  {
+    "businessId": 35,
+    "externalSystemId": 2,
+    "id": 311,
+    "createdAt": "2024-03-09T22:47:27.551Z",
+    "updatedAt": "2024-03-11T02:19:29.212Z",
+    "encryptedPrivateApiKey": 4594
+  },
+  {
+    "businessId": 36,
+    "externalSystemId": 1,
+    "id": 316,
+    "createdAt": "2024-03-08T05:39:47.413Z",
+    "updatedAt": "2024-03-10T18:22:34.963Z",
+    "encryptedPrivateApiKey": 5992
+  },
+  {
+    "businessId": 37,
+    "externalSystemId": 1,
+    "id": 327,
+    "createdAt": "2024-03-12T14:29:41.071Z",
+    "updatedAt": "2024-03-12T20:57:56.733Z",
+    "encryptedPrivateApiKey": 2748
+  },
+  {
+    "businessId": 38,
+    "externalSystemId": 2,
+    "id": 332,
+    "createdAt": "2024-03-07T17:52:42.739Z",
+    "updatedAt": "2024-03-12T15:05:27.969Z",
+    "encryptedPrivateApiKey": 8813
+  },
+  {
+    "businessId": 39,
+    "externalSystemId": 2,
+    "id": 345,
+    "createdAt": "2024-03-11T18:21:03.563Z",
+    "updatedAt": "2024-03-13T06:54:08.134Z",
+    "encryptedPrivateApiKey": 9539
+  },
+  {
+    "businessId": 40,
+    "externalSystemId": 2,
+    "id": 358,
+    "createdAt": "2024-03-04T20:04:05.085Z",
+    "updatedAt": "2024-03-05T09:28:18.316Z",
+    "encryptedPrivateApiKey": 9053
+  },
+  {
+    "businessId": 41,
+    "externalSystemId": 1,
+    "id": 371,
+    "createdAt": "2024-03-04T16:54:23.439Z",
+    "updatedAt": "2024-03-07T22:36:54.576Z",
+    "encryptedPrivateApiKey": 5523
+  },
+  {
+    "businessId": 42,
+    "externalSystemId": 2,
+    "id": 376,
+    "createdAt": "2024-03-04T08:36:37.716Z",
+    "updatedAt": "2024-03-10T10:28:11.002Z",
+    "encryptedPrivateApiKey": 8094
+  },
+  {
+    "businessId": 43,
+    "externalSystemId": 2,
+    "id": 388,
+    "createdAt": "2024-03-13T06:34:21.369Z",
+    "updatedAt": "2024-03-13T08:59:43.208Z",
+    "encryptedPrivateApiKey": 8457
+  },
+  {
+    "businessId": 44,
+    "externalSystemId": 1,
+    "id": 401,
+    "createdAt": "2024-03-03T23:09:16.816Z",
+    "updatedAt": "2024-03-07T08:27:53.940Z",
+    "encryptedPrivateApiKey": 5420
+  },
+  {
+    "businessId": 45,
+    "externalSystemId": 1,
+    "id": 407,
+    "createdAt": "2024-03-04T09:57:54.971Z",
+    "updatedAt": "2024-03-09T09:18:14.423Z",
+    "encryptedPrivateApiKey": 1292
+  },
+  {
+    "businessId": 46,
+    "externalSystemId": 2,
+    "id": 422,
+    "createdAt": "2024-03-06T09:29:45.990Z",
+    "updatedAt": "2024-03-11T08:05:48.373Z",
+    "encryptedPrivateApiKey": 6065
+  },
+  {
+    "businessId": 47,
+    "externalSystemId": 1,
+    "id": 437,
+    "createdAt": "2024-03-06T02:29:18.913Z",
+    "updatedAt": "2024-03-07T01:37:59.738Z",
+    "encryptedPrivateApiKey": 6266
+  },
+  {
+    "businessId": 48,
+    "externalSystemId": 1,
+    "id": 446,
+    "createdAt": "2024-03-05T05:53:51.540Z",
+    "updatedAt": "2024-03-07T19:45:24.592Z",
+    "encryptedPrivateApiKey": 2795
+  },
+  {
+    "businessId": 49,
+    "externalSystemId": 2,
+    "id": 456,
+    "createdAt": "2024-03-04T10:01:03.160Z",
+    "updatedAt": "2024-03-07T07:05:16.339Z",
+    "encryptedPrivateApiKey": 2279
+  },
+  {
+    "businessId": 50,
+    "externalSystemId": 2,
+    "id": 468,
+    "createdAt": "2024-03-09T04:13:45.919Z",
+    "updatedAt": "2024-03-09T06:43:32.957Z",
+    "encryptedPrivateApiKey": 2822
+  },
+  {
+    "businessId": 51,
+    "externalSystemId": 2,
+    "id": 478,
+    "createdAt": "2024-03-09T16:58:33.099Z",
+    "updatedAt": "2024-03-10T07:26:36.697Z",
+    "encryptedPrivateApiKey": 8991
+  },
+  {
+    "businessId": 52,
+    "externalSystemId": 2,
+    "id": 489,
+    "createdAt": "2024-03-10T06:16:29.649Z",
+    "updatedAt": "2024-03-13T02:28:00.870Z",
+    "encryptedPrivateApiKey": 2607
+  },
+  {
+    "businessId": 53,
+    "externalSystemId": 1,
+    "id": 501,
+    "createdAt": "2024-03-09T15:56:34.000Z",
+    "updatedAt": "2024-03-13T10:23:00.902Z",
+    "encryptedPrivateApiKey": 5656
+  },
+  {
+    "businessId": 54,
+    "externalSystemId": 1,
+    "id": 511,
+    "createdAt": "2024-03-05T04:06:00.872Z",
+    "updatedAt": "2024-03-06T07:44:22.620Z",
+    "encryptedPrivateApiKey": 6812
+  },
+  {
+    "businessId": 55,
+    "externalSystemId": 1,
+    "id": 526,
+    "createdAt": "2024-03-09T23:46:08.942Z",
+    "updatedAt": "2024-03-11T12:12:38.725Z",
+    "encryptedPrivateApiKey": 3464
+  },
+  {
+    "businessId": 56,
+    "externalSystemId": 1,
+    "id": 532,
+    "createdAt": "2024-03-09T16:13:53.035Z",
+    "updatedAt": "2024-03-10T21:09:05.011Z",
+    "encryptedPrivateApiKey": 2356
+  },
+  {
+    "businessId": 57,
+    "externalSystemId": 2,
+    "id": 544,
+    "createdAt": "2024-03-09T22:20:11.459Z",
+    "updatedAt": "2024-03-12T02:49:30.964Z",
+    "encryptedPrivateApiKey": 8327
+  },
+  {
+    "businessId": 58,
+    "externalSystemId": 2,
+    "id": 554,
+    "createdAt": "2024-03-09T06:39:03.273Z",
+    "updatedAt": "2024-03-09T10:34:16.930Z",
+    "encryptedPrivateApiKey": 8892
+  },
+  {
+    "businessId": 59,
+    "externalSystemId": 1,
+    "id": 559,
+    "createdAt": "2024-03-10T16:47:17.926Z",
+    "updatedAt": "2024-03-12T00:04:24.148Z",
+    "encryptedPrivateApiKey": 1129
+  },
+  {
+    "businessId": 60,
+    "externalSystemId": 2,
+    "id": 571,
+    "createdAt": "2024-03-12T06:06:00.474Z",
+    "updatedAt": "2024-03-13T04:11:42.047Z",
+    "encryptedPrivateApiKey": 8056
+  },
+  {
+    "businessId": 61,
+    "externalSystemId": 1,
+    "id": 584,
+    "createdAt": "2024-03-10T00:12:36.943Z",
+    "updatedAt": "2024-03-13T01:59:48.679Z",
+    "encryptedPrivateApiKey": 6976
+  },
+  {
+    "businessId": 62,
+    "externalSystemId": 1,
+    "id": 592,
+    "createdAt": "2024-03-09T23:52:12.757Z",
+    "updatedAt": "2024-03-12T22:06:15.208Z",
+    "encryptedPrivateApiKey": 1025
+  },
+  {
+    "businessId": 63,
+    "externalSystemId": 1,
+    "id": 606,
+    "createdAt": "2024-03-09T12:05:42.957Z",
+    "updatedAt": "2024-03-09T23:15:06.064Z",
+    "encryptedPrivateApiKey": 8932
+  },
+  {
+    "businessId": 64,
+    "externalSystemId": 2,
+    "id": 620,
+    "createdAt": "2024-03-07T12:26:53.584Z",
+    "updatedAt": "2024-03-09T02:26:31.578Z",
+    "encryptedPrivateApiKey": 1303
+  },
+  {
+    "businessId": 65,
+    "externalSystemId": 2,
+    "id": 628,
+    "createdAt": "2024-03-04T23:06:16.202Z",
+    "updatedAt": "2024-03-09T10:53:03.765Z",
+    "encryptedPrivateApiKey": 4013
+  },
+  {
+    "businessId": 66,
+    "externalSystemId": 2,
+    "id": 635,
+    "createdAt": "2024-03-12T05:07:34.378Z",
+    "updatedAt": "2024-03-13T10:19:53.713Z",
+    "encryptedPrivateApiKey": 9386
+  },
+  {
+    "businessId": 67,
+    "externalSystemId": 2,
+    "id": 647,
+    "createdAt": "2024-03-08T17:19:56.038Z",
+    "updatedAt": "2024-03-09T05:29:34.861Z",
+    "encryptedPrivateApiKey": 6939
+  },
+  {
+    "businessId": 68,
+    "externalSystemId": 1,
+    "id": 652,
+    "createdAt": "2024-03-09T17:51:32.096Z",
+    "updatedAt": "2024-03-10T17:34:10.441Z",
+    "encryptedPrivateApiKey": 2459
+  },
+  {
+    "businessId": 69,
+    "externalSystemId": 1,
+    "id": 660,
+    "createdAt": "2024-03-06T23:22:53.688Z",
+    "updatedAt": "2024-03-10T00:52:20.200Z",
+    "encryptedPrivateApiKey": 1167
+  },
+  {
+    "businessId": 70,
+    "externalSystemId": 1,
+    "id": 671,
+    "createdAt": "2024-03-12T13:19:40.889Z",
+    "updatedAt": "2024-03-12T13:36:07.006Z",
+    "encryptedPrivateApiKey": 6414
+  },
+  {
+    "businessId": 71,
+    "externalSystemId": 2,
+    "id": 679,
+    "createdAt": "2024-03-12T04:42:40.530Z",
+    "updatedAt": "2024-03-12T12:13:37.382Z",
+    "encryptedPrivateApiKey": 2617
+  },
+  {
+    "businessId": 72,
+    "externalSystemId": 1,
+    "id": 691,
+    "createdAt": "2024-03-06T03:48:04.123Z",
+    "updatedAt": "2024-03-13T02:31:31.059Z",
+    "encryptedPrivateApiKey": 8917
+  },
+  {
+    "businessId": 73,
+    "externalSystemId": 1,
+    "id": 704,
+    "createdAt": "2024-03-07T14:01:24.700Z",
+    "updatedAt": "2024-03-08T03:36:07.860Z",
+    "encryptedPrivateApiKey": 4195
+  },
+  {
+    "businessId": 74,
+    "externalSystemId": 2,
+    "id": 715,
+    "createdAt": "2024-03-04T18:30:02.615Z",
+    "updatedAt": "2024-03-12T17:02:03.003Z",
+    "encryptedPrivateApiKey": 7353
+  },
+  {
+    "businessId": 75,
+    "externalSystemId": 2,
+    "id": 728,
+    "createdAt": "2024-03-11T23:58:04.458Z",
+    "updatedAt": "2024-03-12T01:53:53.815Z",
+    "encryptedPrivateApiKey": 8287
+  },
+  {
+    "businessId": 76,
+    "externalSystemId": 1,
+    "id": 737,
+    "createdAt": "2024-03-03T12:12:33.751Z",
+    "updatedAt": "2024-03-11T17:47:54.236Z",
+    "encryptedPrivateApiKey": 8324
+  },
+  {
+    "businessId": 77,
+    "externalSystemId": 1,
+    "id": 748,
+    "createdAt": "2024-03-04T01:24:53.365Z",
+    "updatedAt": "2024-03-11T18:11:03.320Z",
+    "encryptedPrivateApiKey": 8451
+  },
+  {
+    "businessId": 78,
+    "externalSystemId": 2,
+    "id": 759,
+    "createdAt": "2024-03-09T21:17:46.108Z",
+    "updatedAt": "2024-03-11T00:23:31.864Z",
+    "encryptedPrivateApiKey": 6421
+  },
+  {
+    "businessId": 79,
+    "externalSystemId": 2,
+    "id": 772,
+    "createdAt": "2024-03-07T10:37:57.623Z",
+    "updatedAt": "2024-03-08T12:42:16.255Z",
+    "encryptedPrivateApiKey": 2137
+  },
+  {
+    "businessId": 80,
+    "externalSystemId": 1,
+    "id": 784,
+    "createdAt": "2024-03-05T22:05:11.228Z",
+    "updatedAt": "2024-03-07T11:46:24.396Z",
+    "encryptedPrivateApiKey": 8680
+  },
+  {
+    "businessId": 81,
+    "externalSystemId": 1,
+    "id": 790,
+    "createdAt": "2024-03-08T03:47:58.078Z",
+    "updatedAt": "2024-03-09T10:15:34.975Z",
+    "encryptedPrivateApiKey": 7973
+  },
+  {
+    "businessId": 82,
+    "externalSystemId": 1,
+    "id": 797,
+    "createdAt": "2024-03-07T05:55:32.863Z",
+    "updatedAt": "2024-03-07T06:03:05.367Z",
+    "encryptedPrivateApiKey": 5940
+  },
+  {
+    "businessId": 83,
+    "externalSystemId": 1,
+    "id": 803,
+    "createdAt": "2024-03-09T21:59:49.999Z",
+    "updatedAt": "2024-03-11T15:44:29.183Z",
+    "encryptedPrivateApiKey": 8832
+  },
+  {
+    "businessId": 84,
+    "externalSystemId": 1,
+    "id": 811,
+    "createdAt": "2024-03-09T22:47:33.355Z",
+    "updatedAt": "2024-03-11T03:23:03.338Z",
+    "encryptedPrivateApiKey": 6995
+  },
+  {
+    "businessId": 85,
+    "externalSystemId": 1,
+    "id": 817,
+    "createdAt": "2024-03-05T12:11:51.504Z",
+    "updatedAt": "2024-03-13T06:30:47.736Z",
+    "encryptedPrivateApiKey": 3422
+  },
+  {
+    "businessId": 86,
+    "externalSystemId": 1,
+    "id": 823,
+    "createdAt": "2024-03-06T22:31:32.685Z",
+    "updatedAt": "2024-03-11T13:12:51.803Z",
+    "encryptedPrivateApiKey": 6607
+  },
+  {
+    "businessId": 87,
+    "externalSystemId": 2,
+    "id": 836,
+    "createdAt": "2024-03-10T16:45:18.708Z",
+    "updatedAt": "2024-03-13T01:52:53.338Z",
+    "encryptedPrivateApiKey": 1620
+  },
+  {
+    "businessId": 88,
+    "externalSystemId": 1,
+    "id": 843,
+    "createdAt": "2024-03-10T01:14:12.615Z",
+    "updatedAt": "2024-03-12T03:34:19.867Z",
+    "encryptedPrivateApiKey": 4239
+  },
+  {
+    "businessId": 89,
+    "externalSystemId": 1,
+    "id": 857,
+    "createdAt": "2024-03-03T12:51:57.489Z",
+    "updatedAt": "2024-03-07T06:52:24.835Z",
+    "encryptedPrivateApiKey": 7459
+  },
+  {
+    "businessId": 90,
+    "externalSystemId": 2,
+    "id": 864,
+    "createdAt": "2024-03-04T07:00:07.217Z",
+    "updatedAt": "2024-03-06T07:32:03.793Z",
+    "encryptedPrivateApiKey": 4730
+  },
+  {
+    "businessId": 91,
+    "externalSystemId": 2,
+    "id": 869,
+    "createdAt": "2024-03-04T05:28:33.043Z",
+    "updatedAt": "2024-03-12T17:29:24.861Z",
+    "encryptedPrivateApiKey": 6150
+  },
+  {
+    "businessId": 92,
+    "externalSystemId": 1,
+    "id": 875,
+    "createdAt": "2024-03-07T03:29:02.049Z",
+    "updatedAt": "2024-03-07T16:22:21.475Z",
+    "encryptedPrivateApiKey": 7423
+  },
+  {
+    "businessId": 93,
+    "externalSystemId": 2,
+    "id": 889,
+    "createdAt": "2024-03-05T20:16:59.528Z",
+    "updatedAt": "2024-03-11T12:01:38.828Z",
+    "encryptedPrivateApiKey": 6177
+  },
+  {
+    "businessId": 94,
+    "externalSystemId": 2,
+    "id": 894,
+    "createdAt": "2024-03-13T07:40:31.891Z",
+    "updatedAt": "2024-03-13T07:52:52.631Z",
+    "encryptedPrivateApiKey": 4174
+  },
+  {
+    "businessId": 95,
+    "externalSystemId": 1,
+    "id": 902,
+    "createdAt": "2024-03-11T02:52:09.235Z",
+    "updatedAt": "2024-03-12T05:05:52.532Z",
+    "encryptedPrivateApiKey": 5305
+  },
+  {
+    "businessId": 96,
+    "externalSystemId": 2,
+    "id": 913,
+    "createdAt": "2024-03-12T10:16:52.975Z",
+    "updatedAt": "2024-03-13T09:50:21.830Z",
+    "encryptedPrivateApiKey": 2397
+  },
+  {
+    "businessId": 97,
+    "externalSystemId": 2,
+    "id": 921,
+    "createdAt": "2024-03-06T23:45:34.225Z",
+    "updatedAt": "2024-03-11T10:07:46.861Z",
+    "encryptedPrivateApiKey": 7470
+  },
+  {
+    "businessId": 98,
+    "externalSystemId": 1,
+    "id": 926,
+    "createdAt": "2024-03-08T08:26:20.002Z",
+    "updatedAt": "2024-03-10T22:22:18.224Z",
+    "encryptedPrivateApiKey": 4596
+  },
+  {
+    "businessId": 99,
+    "externalSystemId": 1,
+    "id": 938,
+    "createdAt": "2024-03-09T07:48:08.495Z",
+    "updatedAt": "2024-03-11T17:20:31.083Z",
+    "encryptedPrivateApiKey": 9319
+  },
+  {
+    "businessId": 100,
+    "externalSystemId": 1,
+    "id": 945,
+    "createdAt": "2024-03-06T20:47:43.471Z",
+    "updatedAt": "2024-03-07T08:36:26.291Z",
+    "encryptedPrivateApiKey": 4291
+  },
+  {
+    "businessId": 101,
+    "externalSystemId": 2,
+    "id": 955,
+    "createdAt": "2024-03-05T03:46:58.751Z",
+    "updatedAt": "2024-03-12T05:57:06.275Z",
+    "encryptedPrivateApiKey": 3141
+  },
+  {
+    "businessId": 102,
+    "externalSystemId": 1,
+    "id": 970,
+    "createdAt": "2024-03-12T09:51:29.338Z",
+    "updatedAt": "2024-03-13T01:09:06.613Z",
+    "encryptedPrivateApiKey": 3186
+  },
+  {
+    "businessId": 103,
+    "externalSystemId": 1,
+    "id": 977,
+    "createdAt": "2024-03-13T05:48:13.911Z",
+    "updatedAt": "2024-03-13T09:36:08.916Z",
+    "encryptedPrivateApiKey": 1089
+  },
+  {
+    "businessId": 104,
+    "externalSystemId": 1,
+    "id": 987,
+    "createdAt": "2024-03-03T20:40:28.569Z",
+    "updatedAt": "2024-03-09T21:43:23.553Z",
+    "encryptedPrivateApiKey": 7343
+  },
+  {
+    "businessId": 105,
+    "externalSystemId": 2,
+    "id": 992,
+    "createdAt": "2024-03-05T05:37:27.396Z",
+    "updatedAt": "2024-03-07T10:49:37.234Z",
+    "encryptedPrivateApiKey": 5240
+  },
+  {
+    "businessId": 106,
+    "externalSystemId": 1,
+    "id": 999,
+    "createdAt": "2024-03-05T11:55:57.195Z",
+    "updatedAt": "2024-03-11T15:38:16.779Z",
+    "encryptedPrivateApiKey": 5865
+  },
+  {
+    "businessId": 107,
+    "externalSystemId": 1,
+    "id": 1005,
+    "createdAt": "2024-03-04T00:02:35.187Z",
+    "updatedAt": "2024-03-08T08:24:13.313Z",
+    "encryptedPrivateApiKey": 5286
+  },
+  {
+    "businessId": 108,
+    "externalSystemId": 1,
+    "id": 1015,
+    "createdAt": "2024-03-07T08:42:52.388Z",
+    "updatedAt": "2024-03-13T06:59:31.997Z",
+    "encryptedPrivateApiKey": 6160
+  },
+  {
+    "businessId": 109,
+    "externalSystemId": 1,
+    "id": 1030,
+    "createdAt": "2024-03-12T18:21:10.397Z",
+    "updatedAt": "2024-03-13T06:09:45.042Z",
+    "encryptedPrivateApiKey": 9750
+  },
+  {
+    "businessId": 110,
+    "externalSystemId": 2,
+    "id": 1041,
+    "createdAt": "2024-03-05T03:12:25.764Z",
+    "updatedAt": "2024-03-07T16:26:36.643Z",
+    "encryptedPrivateApiKey": 2414
+  },
+  {
+    "businessId": 111,
+    "externalSystemId": 1,
+    "id": 1055,
+    "createdAt": "2024-03-04T22:23:33.307Z",
+    "updatedAt": "2024-03-13T04:06:23.725Z",
+    "encryptedPrivateApiKey": 7067
+  },
+  {
+    "businessId": 112,
+    "externalSystemId": 2,
+    "id": 1070,
+    "createdAt": "2024-03-11T15:08:40.426Z",
+    "updatedAt": "2024-03-11T22:02:57.918Z",
+    "encryptedPrivateApiKey": 8966
+  },
+  {
+    "businessId": 113,
+    "externalSystemId": 1,
+    "id": 1077,
+    "createdAt": "2024-03-05T00:19:54.828Z",
+    "updatedAt": "2024-03-09T09:37:42.819Z",
+    "encryptedPrivateApiKey": 1078
+  },
+  {
+    "businessId": 114,
+    "externalSystemId": 2,
+    "id": 1086,
+    "createdAt": "2024-03-11T01:08:46.725Z",
+    "updatedAt": "2024-03-13T00:13:33.491Z",
+    "encryptedPrivateApiKey": 6356
+  },
+  {
+    "businessId": 115,
+    "externalSystemId": 2,
+    "id": 1092,
+    "createdAt": "2024-03-10T10:29:04.250Z",
+    "updatedAt": "2024-03-12T06:20:53.630Z",
+    "encryptedPrivateApiKey": 6444
+  },
+  {
+    "businessId": 116,
+    "externalSystemId": 1,
+    "id": 1103,
+    "createdAt": "2024-03-13T00:39:26.416Z",
+    "updatedAt": "2024-03-13T10:53:38.970Z",
+    "encryptedPrivateApiKey": 1132
+  },
+  {
+    "businessId": 117,
+    "externalSystemId": 2,
+    "id": 1115,
+    "createdAt": "2024-03-04T01:00:29.080Z",
+    "updatedAt": "2024-03-06T05:14:32.617Z",
+    "encryptedPrivateApiKey": 6008
+  },
+  {
+    "businessId": 118,
+    "externalSystemId": 1,
+    "id": 1124,
+    "createdAt": "2024-03-10T04:16:15.522Z",
+    "updatedAt": "2024-03-13T01:59:44.539Z",
+    "encryptedPrivateApiKey": 7129
+  },
+  {
+    "businessId": 119,
+    "externalSystemId": 1,
+    "id": 1130,
+    "createdAt": "2024-03-07T11:19:30.195Z",
+    "updatedAt": "2024-03-12T17:14:08.738Z",
+    "encryptedPrivateApiKey": 7884
+  },
+  {
+    "businessId": 120,
+    "externalSystemId": 1,
+    "id": 1138,
+    "createdAt": "2024-03-10T08:12:10.694Z",
+    "updatedAt": "2024-03-10T21:27:55.520Z",
+    "encryptedPrivateApiKey": 9366
+  },
+  {
+    "businessId": 121,
+    "externalSystemId": 1,
+    "id": 1146,
+    "createdAt": "2024-03-08T06:36:28.932Z",
+    "updatedAt": "2024-03-12T11:13:37.481Z",
+    "encryptedPrivateApiKey": 2367
+  },
+  {
+    "businessId": 122,
+    "externalSystemId": 2,
+    "id": 1152,
+    "createdAt": "2024-03-12T14:10:11.659Z",
+    "updatedAt": "2024-03-12T15:03:47.986Z",
+    "encryptedPrivateApiKey": 3407
+  },
+  {
+    "businessId": 123,
+    "externalSystemId": 1,
+    "id": 1166,
+    "createdAt": "2024-03-07T10:23:14.645Z",
+    "updatedAt": "2024-03-11T06:09:46.416Z",
+    "encryptedPrivateApiKey": 1185
+  },
+  {
+    "businessId": 124,
+    "externalSystemId": 2,
+    "id": 1181,
+    "createdAt": "2024-03-09T15:17:21.750Z",
+    "updatedAt": "2024-03-11T03:06:53.508Z",
+    "encryptedPrivateApiKey": 9755
+  },
+  {
+    "businessId": 125,
+    "externalSystemId": 2,
+    "id": 1194,
+    "createdAt": "2024-03-13T06:16:12.213Z",
+    "updatedAt": "2024-03-13T08:15:44.395Z",
+    "encryptedPrivateApiKey": 2837
+  },
+  {
+    "businessId": 126,
+    "externalSystemId": 1,
+    "id": 1208,
+    "createdAt": "2024-03-05T08:33:58.372Z",
+    "updatedAt": "2024-03-08T06:56:24.952Z",
+    "encryptedPrivateApiKey": 3382
+  },
+  {
+    "businessId": 127,
+    "externalSystemId": 1,
+    "id": 1215,
+    "createdAt": "2024-03-10T03:10:44.979Z",
+    "updatedAt": "2024-03-11T06:58:07.164Z",
+    "encryptedPrivateApiKey": 8612
+  },
+  {
+    "businessId": 128,
+    "externalSystemId": 2,
+    "id": 1227,
+    "createdAt": "2024-03-04T05:03:48.951Z",
+    "updatedAt": "2024-03-09T23:52:29.395Z",
+    "encryptedPrivateApiKey": 9873
+  },
+  {
+    "businessId": 129,
+    "externalSystemId": 1,
+    "id": 1240,
+    "createdAt": "2024-03-10T14:27:22.255Z",
+    "updatedAt": "2024-03-11T21:47:54.291Z",
+    "encryptedPrivateApiKey": 7808
+  },
+  {
+    "businessId": 130,
+    "externalSystemId": 1,
+    "id": 1255,
+    "createdAt": "2024-03-09T21:20:41.719Z",
+    "updatedAt": "2024-03-11T17:36:58.731Z",
+    "encryptedPrivateApiKey": 5943
+  },
+  {
+    "businessId": 131,
+    "externalSystemId": 2,
+    "id": 1260,
+    "createdAt": "2024-03-04T19:58:09.585Z",
+    "updatedAt": "2024-03-10T00:27:12.470Z",
+    "encryptedPrivateApiKey": 9978
+  },
+  {
+    "businessId": 132,
+    "externalSystemId": 2,
+    "id": 1271,
+    "createdAt": "2024-03-06T00:53:15.959Z",
+    "updatedAt": "2024-03-09T02:14:22.805Z",
+    "encryptedPrivateApiKey": 9984
+  },
+  {
+    "businessId": 133,
+    "externalSystemId": 1,
+    "id": 1277,
+    "createdAt": "2024-03-09T20:46:09.578Z",
+    "updatedAt": "2024-03-10T11:20:56.259Z",
+    "encryptedPrivateApiKey": 5557
+  },
+  {
+    "businessId": 134,
+    "externalSystemId": 2,
+    "id": 1291,
+    "createdAt": "2024-03-10T03:12:39.685Z",
+    "updatedAt": "2024-03-12T16:19:08.502Z",
+    "encryptedPrivateApiKey": 6646
+  },
+  {
+    "businessId": 135,
+    "externalSystemId": 2,
+    "id": 1296,
+    "createdAt": "2024-03-04T01:15:55.015Z",
+    "updatedAt": "2024-03-11T12:49:35.542Z",
+    "encryptedPrivateApiKey": 8449
+  },
+  {
+    "businessId": 136,
+    "externalSystemId": 1,
+    "id": 1304,
+    "createdAt": "2024-03-08T02:47:43.325Z",
+    "updatedAt": "2024-03-09T14:51:02.138Z",
+    "encryptedPrivateApiKey": 5223
+  },
+  {
+    "businessId": 137,
+    "externalSystemId": 1,
+    "id": 1313,
+    "createdAt": "2024-03-07T18:05:37.345Z",
+    "updatedAt": "2024-03-08T06:24:36.404Z",
+    "encryptedPrivateApiKey": 1775
+  },
+  {
+    "businessId": 138,
+    "externalSystemId": 1,
+    "id": 1326,
+    "createdAt": "2024-03-09T13:00:45.685Z",
+    "updatedAt": "2024-03-09T20:28:57.802Z",
+    "encryptedPrivateApiKey": 3514
+  },
+  {
+    "businessId": 139,
+    "externalSystemId": 1,
+    "id": 1341,
+    "createdAt": "2024-03-07T12:22:07.389Z",
+    "updatedAt": "2024-03-08T06:20:44.423Z",
+    "encryptedPrivateApiKey": 8562
+  },
+  {
+    "businessId": 140,
+    "externalSystemId": 2,
+    "id": 1355,
+    "createdAt": "2024-03-07T16:53:39.273Z",
+    "updatedAt": "2024-03-11T21:56:38.567Z",
+    "encryptedPrivateApiKey": 6569
+  },
+  {
+    "businessId": 141,
+    "externalSystemId": 2,
+    "id": 1370,
+    "createdAt": "2024-03-04T17:44:11.233Z",
+    "updatedAt": "2024-03-12T09:05:43.111Z",
+    "encryptedPrivateApiKey": 9297
+  },
+  {
+    "businessId": 142,
+    "externalSystemId": 1,
+    "id": 1385,
+    "createdAt": "2024-03-10T14:44:58.793Z",
+    "updatedAt": "2024-03-12T10:01:10.075Z",
+    "encryptedPrivateApiKey": 7341
+  },
+  {
+    "businessId": 143,
+    "externalSystemId": 1,
+    "id": 1399,
+    "createdAt": "2024-03-10T19:39:24.285Z",
+    "updatedAt": "2024-03-11T15:24:33.542Z",
+    "encryptedPrivateApiKey": 7064
+  },
+  {
+    "businessId": 144,
+    "externalSystemId": 2,
+    "id": 1406,
+    "createdAt": "2024-03-08T16:36:45.136Z",
+    "updatedAt": "2024-03-09T23:27:36.661Z",
+    "encryptedPrivateApiKey": 2547
+  },
+  {
+    "businessId": 145,
+    "externalSystemId": 2,
+    "id": 1417,
+    "createdAt": "2024-03-10T16:11:55.403Z",
+    "updatedAt": "2024-03-12T20:01:21.421Z",
+    "encryptedPrivateApiKey": 7997
+  },
+  {
+    "businessId": 146,
+    "externalSystemId": 2,
+    "id": 1432,
+    "createdAt": "2024-03-05T17:06:06.339Z",
+    "updatedAt": "2024-03-07T03:42:32.025Z",
+    "encryptedPrivateApiKey": 6192
+  },
+  {
+    "businessId": 147,
+    "externalSystemId": 1,
+    "id": 1440,
+    "createdAt": "2024-03-05T21:44:02.530Z",
+    "updatedAt": "2024-03-13T04:05:51.700Z",
+    "encryptedPrivateApiKey": 2139
+  },
+  {
+    "businessId": 148,
+    "externalSystemId": 2,
+    "id": 1447,
+    "createdAt": "2024-03-03T19:42:57.208Z",
+    "updatedAt": "2024-03-07T07:34:28.392Z",
+    "encryptedPrivateApiKey": 3233
+  },
+  {
+    "businessId": 149,
+    "externalSystemId": 1,
+    "id": 1452,
+    "createdAt": "2024-03-08T20:07:59.355Z",
+    "updatedAt": "2024-03-09T06:50:37.580Z",
+    "encryptedPrivateApiKey": 4662
+  }
+]

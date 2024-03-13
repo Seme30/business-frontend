@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Food Stores-Retail",
+    "id": 3,
+    "createdAt": "2024-03-07T10:36:47.559Z",
+    "updatedAt": "2024-03-10T23:52:21.683Z"
+  },
+  {
+    "name": "Eating and Drinking Places",
+    "id": 4,
+    "createdAt": "2024-03-05T08:47:16.162Z",
+    "updatedAt": "2024-03-11T15:33:04.896Z"
+  },
+  {
+    "name": "Other Medical Facilities",
+    "id": 5,
+    "createdAt": "2024-03-08T01:11:51.370Z",
+    "updatedAt": "2024-03-08T15:58:59.718Z"
+  },
+  {
+    "id": 6,
+    "createdAt": "2024-03-03T19:27:19.629Z",
+    "updatedAt": "2024-03-08T12:16:04.681Z",
+    "name": "Games"
+  },
+  {
+    "id": 7,
+    "createdAt": "2024-03-04T02:51:12.714Z",
+    "updatedAt": "2024-03-12T19:16:55.627Z",
+    "name": "Electronics"
+  },
+  {
+    "id": 8,
+    "createdAt": "2024-03-05T20:27:57.908Z",
+    "updatedAt": "2024-03-08T20:54:58.328Z",
+    "name": "Baby"
+  },
+  {
+    "id": 9,
+    "createdAt": "2024-03-10T08:48:13.356Z",
+    "updatedAt": "2024-03-13T08:16:22.022Z",
+    "name": "Sports"
+  },
+  {
+    "id": 10,
+    "createdAt": "2024-03-03T16:44:33.324Z",
+    "updatedAt": "2024-03-13T10:29:22.132Z",
+    "name": "Home"
+  },
+  {
+    "id": 11,
+    "createdAt": "2024-03-06T03:08:17.935Z",
+    "updatedAt": "2024-03-12T11:19:15.083Z",
+    "name": "Computers"
+  },
+  {
+    "id": 12,
+    "createdAt": "2024-03-03T13:10:42.193Z",
+    "updatedAt": "2024-03-09T16:28:02.271Z",
+    "name": "Automotive"
+  },
+  {
+    "id": 13,
+    "createdAt": "2024-03-07T17:33:47.782Z",
+    "updatedAt": "2024-03-10T02:58:13.071Z",
+    "name": "Games"
+  },
+  {
+    "id": 14,
+    "createdAt": "2024-03-07T05:54:34.477Z",
+    "updatedAt": "2024-03-10T09:58:33.916Z",
+    "name": "Electronics"
+  },
+  {
+    "id": 15,
+    "createdAt": "2024-03-10T19:42:53.738Z",
+    "updatedAt": "2024-03-11T18:14:09.606Z",
+    "name": "Baby"
+  }
+]
