@@ -12,7 +12,6 @@ const externalSystemInstallations = JSON.parse(fs.readFileSync('./db/externalSys
 
 const router = express.Router()
 
-
 router.get('/businesses', (req, res) => {
   res.json(businesses);
 });
@@ -49,6 +48,9 @@ router.get('/businesses/:id', (req, res) => {
   business.campaigns = campaigns.filter(campaign => campaign.businessId === business.id);
   business.locations = locations.filter(location => location.businessId === business.id);
   business.externalSystemInstallations = externalSystemInstallations.filter(installation => installation.businessId === business.id);
+  business.externalSystems = business.externalSystemInstallations.map(installation => {
+    return externalSystems.find(externalSystem => externalSystem.id === installation.externalSystemId);
+  });
 
   res.json(business);
 });
